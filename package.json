@@ -1,0 +1,12 @@
+{
+  "name": "private-store",
+  "version": "1.0.0",
+  "description": "",
+  "main": "store.js",
+  "scripts": {
+    "start": "node store.js"
+  },
+  "keywords": [],
+  "author": "Andy Dufrenot",
+  "license": "ISC"
+}
